@@ -1,0 +1,4 @@
+/home/weison/Desktop/Fast-Robust-ICP/build/CMakeFiles/FRICP.dir
+/home/weison/Desktop/Fast-Robust-ICP/build/CMakeFiles/data.dir
+/home/weison/Desktop/Fast-Robust-ICP/build/CMakeFiles/edit_cache.dir
+/home/weison/Desktop/Fast-Robust-ICP/build/CMakeFiles/rebuild_cache.dir
